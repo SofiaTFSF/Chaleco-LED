@@ -14,6 +14,10 @@
 
 Este chaleco es una ergonómica prenda la cual tiene integrada un sistema de luces la cual puedes ser modificada por medio de una aplicación que cumple la función de mando segun sea la necesidad del ciclista, ya sea que el usuario de la bicicleta gire, frene, o requiera de algun tipo de ayuda.
 
+## PLANTEAMIENTO DEL PROBLEMA
+
+En la actualidad, la ciudad de Bogotá experimenta lamentablemente una elevada incidencia de accidentes involucrando ciclistas. Estos incidentes de tránsito se atribuyen a diversas causas, siendo una de ellas la insuficiente comunicación entre los usuarios de la vía. Con el objetivo de mitigar esta problemática, se pretende concebir y desarrollar un chaleco dotado de un sistema de señalización direccional. Este dispositivo tiene como finalidad comunicar de manera efectiva las intenciones del ciclista a otros conductores, ya sea al realizar giros, frenar o requerir asistencia. La implementación de dicho sistema se llevará a cabo mediante la conectividad inalámbrica con dispositivos móviles.
+
 ## Objetivo
 
 Nuestro objetivo principal es ayudar a que los ciclistas sean mas visibles en la vía minimizando así lo mayor posible los accidentes de los usuarios de este medio de transporte, este chaleco ayudará a que los ciclistas sean mas visibles especialmente en la noche por medio de un sistema de direccionales que permitirá comunicar los movimientos y prevenir cualquier inconveniente o accidente.
